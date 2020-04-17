@@ -9,6 +9,10 @@ position:relative;
 
 
 }
+.feature-items
+{ text-align: center;
+  padding:4%;
+  }
 #h1{
   display: inline;
   color:#fcf8f3;
